@@ -1,0 +1,257 @@
+commit e52d85d32f676decbec822e18be29be66d8594f9
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Nov 14 18:32:06 2016 -0500
+
+    Unit tests for Ngram passed
+
+commit 77de92143a5e518881babe09d6b53eabedc3456b
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Nov 14 12:52:41 2016 -0500
+
+    unit test for N gram passed, random generation works
+
+commit ad4f39dc1d6b997392567cff7119006496c41bb2
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Nov 14 11:33:41 2016 -0500
+
+    Pick word and output compile
+
+commit 5cfa80f1230eaef5f1c6be60f5a0b198d05e43e7
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Nov 13 23:47:41 2016 -0500
+
+    works properly, prints test output properly
+
+commit 4fc933c3052a2e2b4d75e974c047272e79b7f7ac
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Nov 13 23:33:11 2016 -0500
+
+    it works!
+
+commit 1cdbb88275ad59f821d359bab9e9484660a8b99f
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Nov 13 23:25:12 2016 -0500
+
+    all functions compile
+
+commit bdeb546cdb156d43cded90e6f78fb2ebe6b3139c
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Nov 13 15:00:38 2016 -0500
+
+    Wrote code to build model, need to test
+
+commit 2ea306b55ee8b1e8afbf940279de2cc50e2c335a
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Nov 7 22:12:46 2016 -0500
+
+    project done
+
+commit 12d216ed44d9c52dadf3be7bacafb8fdf617f543
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Nov 7 21:53:37 2016 -0500
+
+    Testing files working, need to make blank files work
+
+commit 2e7287901b443f83903d621d7f7f314067bcf1b3
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Nov 7 19:58:32 2016 -0500
+
+    a7b works, makefile works
+
+commit d6e8227a4c17cbd3d96ea8cbceb963ac3a85e6fd
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Nov 7 18:25:28 2016 -0500
+
+    a7b run time error, compiles though
+
+commit ee8de6e27e6f0fd26b214e6349463ef841668663
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Nov 7 13:05:55 2016 -0500
+
+    a7a is done, a7b can read in data
+
+commit a6d21e97cf31c4e14d0cf344c7b9e67f8ed97d57
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Fri Nov 4 18:40:26 2016 -0400
+
+    have the bigram formed, working on sorting
+
+commit 937dbbf3ad24439bbc0746add141396c6e5f185b
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sat Oct 15 19:32:10 2016 -0400
+
+    push util
+
+commit 7f199f46ec5a5b67c81e8f610bef75e47dc53b11
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sat Oct 15 19:28:19 2016 -0400
+
+    implemented menu
+
+commit 23a4d7c27bc2b479ff95a2251226b090ea65bd17
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Oct 3 22:05:02 2016 -0400
+
+    Files work
+
+commit 4b4f909e1a7c86eaa32b1c4f846d36cdcbbc2d9f
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Oct 3 19:26:06 2016 -0400
+
+    help
+
+commit 646f1058156dcda646fdc71329ec13a0d5f02bd0
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Oct 3 19:19:04 2016 -0400
+
+    Passes 3 out of 4 tests
+
+commit fcfba28d62b2d2abbfa39c4add7155f5e94d885c
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Oct 3 18:23:44 2016 -0400
+
+    board builds
+
+commit 99e06ed415160b11415fd5e35c6d039f90e56241
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Fri Sep 30 20:16:32 2016 -0400
+
+    a4 compiles but does not execute properly
+
+commit 3d5e0377576b63d494f5b9c3b70915102ed358c4
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Thu Sep 29 17:53:01 2016 -0400
+
+    added two functions so far, one to load the board and one to check it
+
+commit 170b376e34045029acbd7981c3ad4f11885b50ab
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Sep 19 15:08:37 2016 -0400
+
+    created gitlog
+
+commit f595e240143eb0ebbd7a579c63ffdd731c9ca20a
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Sep 19 15:06:55 2016 -0400
+
+    README added
+
+commit 0058744e307a28ccd681e2b72d4b309e9e698b9f
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Sep 19 15:06:11 2016 -0400
+
+    Created the .gitignore file
+
+commit 0ecee53df05128b18305f3350949b900bb31dbd4
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Sep 19 12:14:17 2016 -0400
+
+    a2_v4 works, all bugs fixed
+
+commit eb3f538b31a68712fdca54ddc076726d1703b5b1
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Sep 19 12:05:55 2016 -0400
+
+    a2_v4 is working but still has bugs
+
+commit 3e9fb874b1d77464c10c77e8f6429f722bd36cb0
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Sep 18 18:48:09 2016 -0400
+
+    created a2_v4, debugging
+
+commit 37c50d195530267af1776a583ca5c53fc44532bf
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Sep 18 18:45:09 2016 -0400
+
+    a2_v3 is functioning, all tests have passed
+
+commit 62d857ea40ce6f33fbd22a595f089ca221a23a53
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Sep 18 14:57:37 2016 -0400
+
+    a2_v3 passes most tests but still failing to account for punctuation
+
+commit f12f056db7ab04c806e2779cb89041a38e26f4f7
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sat Sep 17 16:32:15 2016 -0400
+
+    a2_v2 is complete, and passed all tests
+
+commit 159bef0d4ce711217adbc38f13b7bd2b28b3dd0b
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Thu Sep 15 10:52:41 2016 -0400
+
+    a2_v1 functions, and a2_v2 has been created
+
+commit 189f9b9d839d78eb141532d41dfb54fc99f0e5a4
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Wed Sep 14 22:02:25 2016 -0400
+
+    Created a2_v1 files, still debugging, send prayers
+
+commit 683d93afac389ee4b81027e52595cb346b26b29a
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Wed Sep 14 21:18:02 2016 -0400
+
+    Added README file and modified headers
+
+commit e8733e5a30a4c9795bc839ab9e83da702ba1a476
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Wed Sep 14 21:00:11 2016 -0400
+
+    Setting up folder for assignment
+
+commit ccbd6ab56e658b520b62ea89c1ccd61376aa3b4e
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Wed Sep 14 13:31:43 2016 -0400
+
+    char program
+
+commit ecd18c88c5b53b8f5afb8443947a3b15bebf3c3d
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Wed Sep 14 13:08:49 2016 -0400
+
+    Number game
+
+commit 59c03f9042f1bf89a1b341cfa6bbcc7ec6d7fbde
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Wed Sep 14 13:05:09 2016 -0400
+
+    Added age to hellow world
+
+commit a36d31bacf05f8d774e982102f528b8e14a08e07
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Wed Sep 14 13:01:28 2016 -0400
+
+    Modified version of hello world to include name
+
+commit 8fabc3284fe180fd2c341e91de890499e1399628
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Sep 11 12:17:07 2016 -0400
+
+    corrected the a1.c file
+
+commit ba4ac091bf74eb08fa935932684f6ae37d67b0c1
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Sep 11 11:52:30 2016 -0400
+
+    adding .gitignore
+
+commit f9fab74e96e11a7f08bed0e216cc167b8569092e
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Sep 11 11:43:07 2016 -0400
+
+    Added a1 repo to directories
+
+commit 2aa4d01519785ec1e3ccbdae7fe330fcdbdc6c5b
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Fri Sep 9 13:05:36 2016 -0400
+
+    Updated README
+
+commit 9e9509e8dd7658e890025f9d45ea4208338cfeae
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Fri Sep 9 13:01:22 2016 -0400
+
+    Created README
