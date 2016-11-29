@@ -1,13 +1,25 @@
-Name: Karun Kannan
-JHED: kkannan1
-Assignment: 8
-Course Number: EN.600.120
-Section: 01
-Semester: Fall 2016
+//Karun Kannan
 
 Description: This program is a languge processer that uses a Ngram model. It is able
 to train from multiple models, and can produce randomly generated outputs based on
 commands.
+
+How Does It Work:
+The input for the program is as follows:
+    ./Ngram file_list.txt n char
+    file_list.txt: file that contains file paths for all files that are fed into the
+    		   model.
+    n: The size of the model, the number words that model is based on. Ex: 2 would be
+       a bigram.
+    char: There are 4 options: "a","r","c", or "g"
+    	  "a": Prints out the Ngram in alphabetical order
+	  "r": Prints out the Ngram in reverse alphabetical order
+	  "c": Prints out the Ngram based on the number of occurances
+	  "g": Prints out randomly generated paragraphs/sentences based on the model.
+	       This input requires another integer to follow it, to specify how many
+	       outputs should be generated.
+	       Ex: ./Ngram file_list.txt 2 g 3 would build a bigram and output 3 things
+
 
 Files:
 	a8.cpp: The driver of the program. This file uses the Language model class to
@@ -19,10 +31,5 @@ Files:
 			     all important values. Contains fucntions, to insert words,
 			     print to string, and pick words for sentence generation.
 
-Thoughts: Again very interesting assignment. Made me more comfortable with C++. The project
-	  roughly 10-12 hours again. Unit Testing was difficult to intially wrtie for the
-	  Language Model unit tests.
 
-Pitfalls: Should take care of errors, did not have time to finish the Language Model unit tests,
-	  I did test the functions with regular testing. Unfortunately, I have an exam that I really
-	  need to study for so had to make the game time deicison to take an L. Sorry! 
+
